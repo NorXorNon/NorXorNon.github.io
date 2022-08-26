@@ -1,0 +1,44 @@
+.banner {
+    background-image: url('../images/pattern.jpeg');
+
+}
+
+#textBanner {
+    padding: 0 center;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-color: transparent;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#brushes {
+    width: 100%;
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    width: 100%;
+    background-color: lightcoral;
+}
+
+#paint {
+    width: 100%;
+    background-color: skyblue;
+}
